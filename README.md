@@ -1,3 +1,4 @@
-These are my python study notes.
-[toc]
+[TOC]
 # python-notes
+These are my python study notes.
+
